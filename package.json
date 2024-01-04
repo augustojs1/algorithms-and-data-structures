@@ -1,0 +1,11 @@
+{
+  "name": "algorithms-and-data-structure",
+  "version": "1.0.0",
+  "description": "Implementing classic Computer Science Algorithms and Data Structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Augusto Souza",
+  "license": "ISC"
+}
