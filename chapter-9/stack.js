@@ -1,4 +1,4 @@
-class Stack {
+export class Stack {
   data = [];
 
   push(element) {
@@ -6,7 +6,7 @@ class Stack {
   }
 
   pop() {
-    this.data.pop();
+    return this.data.pop();
   }
 
   read() {

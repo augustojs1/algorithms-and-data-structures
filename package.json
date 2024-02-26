@@ -1,6 +1,7 @@
 {
   "name": "algorithms-and-data-structure",
   "version": "1.0.0",
+  "type": "module",
   "description": "Implementing classic Computer Science Algorithms and Data Structures",
   "main": "index.js",
   "scripts": {
